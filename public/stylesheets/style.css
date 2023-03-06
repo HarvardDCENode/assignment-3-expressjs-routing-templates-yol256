@@ -4,5 +4,9 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #9c2897;
+}
+
+label {
+  display: block;
 }
